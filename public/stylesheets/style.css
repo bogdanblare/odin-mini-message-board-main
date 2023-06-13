@@ -1,0 +1,54 @@
+@import "./modern-normalize.css";
+
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h1,
+h4 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.header {
+    margin-bottom: 2rem;
+}
+
+.welcomeMessage {
+    margin: 1rem 0;
+}
+
+.message {
+    margin: 0.75rem 0;
+}
+
+.button {
+    border: 1px solid;
+    padding: 0.5rem;
+    background-color: lightgray;
+    border-radius: 0.25rem;
+    text-decoration: none;
+}
+
+.messageDate {
+    font-size: small;
+}
+
+.newMessageForm {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0;
+    width: 25rem;
+}
+
+input {
+    margin-bottom: 1rem;
+}
+
+textarea {
+    margin-bottom: 1rem;
+}

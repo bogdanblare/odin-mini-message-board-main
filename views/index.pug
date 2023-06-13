@@ -1,0 +1,15 @@
+extends layout
+
+block content
+  div(class="header")
+    h1= title
+    p(class="welcomeMessage") Welcome to my #{title}
+
+    a(class="button" href="./new") Add message
+
+  each message in messages
+    div(class="message")
+      h4= message.user
+      p= message.text
+      p(class="messageDate")= message.added_formatted
+      hr
