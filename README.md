@@ -20,6 +20,6 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/bogdanblare/memory-game/master/Screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/bogdanblare/odin-mini-message-board-main/main/Screenshot.png)
 
-## Modin-mini-message-board-main
+## Odin-mini-message-board-main
