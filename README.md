@@ -1,4 +1,4 @@
-## Run Locally
+## 🚀 Run Locally
 
 Clone the project
 
@@ -18,7 +18,7 @@ Start the server
   npm run start
 ```
 
-## Screenshots
+## 📸 Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/bogdanblare/odin-mini-message-board-main/main/Screenshot.png)
 
