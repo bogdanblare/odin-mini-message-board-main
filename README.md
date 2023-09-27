@@ -21,5 +21,3 @@ Start the server
 ## 📸 Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/bogdanblare/odin-mini-message-board-main/main/Screenshot.png)
-
-## Odin-mini-message-board-main
