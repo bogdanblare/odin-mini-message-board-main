@@ -12,6 +12,12 @@ Go to the project directory
   cd odin-mini-message-board-main
 ```
 
+Install dependencies
+
+```bash
+  npm install
+```
+
 Start the server
 
 ```bash
@@ -21,5 +27,3 @@ Start the server
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/bogdanblare/memory-game/master/Screenshot.png)
-
-## Modin-mini-message-board-main
